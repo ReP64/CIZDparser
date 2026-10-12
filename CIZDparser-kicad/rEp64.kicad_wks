@@ -1,0 +1,89 @@
+(kicad_wks
+	(version 20231118)
+	(generator "pl_editor")
+	(generator_version "9.0")
+	(setup
+		(textsize 2.5 2.5)
+		(linewidth 0.3)
+		(textlinewidth 0.25)
+		(left_margin 8)
+		(right_margin 5)
+		(top_margin 5)
+		(bottom_margin 5)
+	)
+	(tbtext "${TITLE}\n"
+		(name "text1:Text")
+		(pos 93.98 15.24)
+		(font
+			(face "Verdana")
+			(size 4.445 4.445) bold italic
+			(color 132 0 0 1)
+		)
+	)
+	(rect
+		(name "rect1:Rect")
+		(start 0.0022 0.0072)
+		(end -0.0022 -0.0072 ltcorner)
+	)
+	(line
+		(name "segm2:Line")
+		(start 10.0022 0.0072)
+		(end 10.0022 10.0002)
+	)
+	(line
+		(name "segm3:Line")
+		(start 0.002 10.0072)
+		(end 97.489 10.0622)
+	)
+	(tbtext "ReP64"
+		(name "text3:Text")
+		(pos 93.98 5.0802)
+		(font
+			(face "Verdana")
+			(size 3.81 3.81) bold)
+	)
+	(line
+		(name "segm5:Line")
+		(start 0 20.222)
+		(end 97.489 20.222)
+	)
+	(line
+		(name "segm6:Line")
+		(start 68 0.007)
+		(end 68.0022 10.0002)
+	)
+	(tbtext "Version : ${REVISION}"
+		(name "text4:Text")
+		(pos 66.002 3.007)
+		(font
+			(face "Verdana") bold)
+	)
+	(tbtext "Datum : ${ISSUE_DATE}"
+		(name "text5:Text")
+		(pos 64.002 7.007)
+		(font
+			(face "Verdana") bold)
+	)
+	(bitmap
+		(name "")
+		(pos 4.989 5.002)
+		(scale 0.3133333333)
+		(data "iVBORw0KGgoAAAANSUhEUgAAAGAAAABgCAIAAABt+uBvAAAAA3NCSVQICAjb4U/gAAAACXBIWXMA"
+			"AA50AAAOdAFrJLPWAAAB40lEQVR4nO2cMXKDMBBF5YyLFG5c5JgpOYVvmEvQkN6FZgiJiT9IaxC7"
+			"7zXuPMyb/xGsZJ++hz7B/7ztfQGtgyDBOX/cLtd9r2MDuqKbCQkSBBJ0u1wLinJ+xaW0zNTRktIF"
+			"SlAZoQUtKV1oQZnnjhAkQJAg3Co2y9iyx3WNBAkQJEDQLx4XfgQJECRA0AzTliFIgCDByeXQ3mRA"
+			"mh8afSaobLr6h2zZp6CUUjf0JprcCsrUO3IuqB7/gipD5F9QqnMUQlANUQQVhyiKoGIQJECQYN3Q"
+			"vuwdx+SJdi9IkCCKoOL3+xCCaqYfIQTV4F9QcXw8D8xGKu0kx3vzVsdSfSbI8NBuKwlq6hzy9MnW"
+			"Z4IMQZCglYo1AgeoVoMgAYJ+mB3LIEjATTqlpyM9EiQGnggShK7YkmF5OEFrdxComCBQgsp2n5wL"
+			"4gDVy3GbIKvt3FYENbs9TcUECBIgSIAgAYIECBIgSIAgAYIECBIgSLCFoKZObqxlowQd19F2FTuo"
+			"o03HHYdz1A09N2kBggTrBFn91vpAkCABggQlgkK1jAQJECQoFBRnOSNBgipBEUJUmyD3XaNiAhtB"
+			"jkNklqDctff0YfWFjWBcsc/hy/YLd8d+YDbW7XDjsVl8/o+iIaxiAgQJ7mAWdd6mSP+aAAAAAElF"
+			"TkSuQmCC"
+		)
+	)
+	(line
+		(name "")
+		(start 97.489 0)
+		(end 97.489 20.222)
+	)
+)
