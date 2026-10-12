@@ -1,5 +1,5 @@
-send data from a CI200Sc to a zebra printer ZD420
-the data from the CI200SC format is BP-DT4 Form0
+send data from a CI200Sc to a zebra printer ZD420 
+the data from the CI200SC format is BP-DT4 Form0 
 the programming for de ZD420 is ZPL format
 
     CI200SC settings
